@@ -1,10 +1,6 @@
-# RecurringDatePicker
-
 # Recurring Date Picker Component
 
 A customizable React component for selecting recurring dates with various frequency patterns.
-
-![Component Preview](screenshot.png) *<!-- Add actual screenshot path -->*
 
 ## Features
 
