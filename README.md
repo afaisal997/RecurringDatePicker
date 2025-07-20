@@ -29,20 +29,6 @@ git clone https://github.com/yourusername/recurring-date-picker.git
 npm install
 ```
 
-Component Structure
-
-src/
-├── components/
-│   ├── RecurringDatePicker.jsx       # Main component
-│   ├── FrequencySelector.jsx         # Frequency options
-│   ├── CustomizationOptions.jsx      # Pattern customization
-│   ├── DateRangePicker.jsx           # Date range selection
-│   └── CalendarPreview.jsx           # Date preview
-├── context/
-│   └── RecurrenceContext.js          # State management
-└── utils/
-    └── dateUtils.js                  # Date calculations
-
 ## Tech Stack
 - Framework: React 18+
 - Styling: Tailwind CSS
